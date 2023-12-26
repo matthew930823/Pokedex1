@@ -326,3 +326,5 @@ function checktype() {
 }
 window.addEventListener("load", start, false);
 window.addEventListener("load", slide, false);
+
+
